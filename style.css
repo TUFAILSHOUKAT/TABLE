@@ -1,0 +1,87 @@
+th {
+    background-color: orangered;
+    color: white;
+    word-spacing: 30px;
+    border: 2px;
+    height: 50px;
+    width: 300px;
+}
+
+.abc {
+    background-color: gainsboro;
+    height: 50px;
+    width: 300px;
+    ;
+}
+
+td {
+    text-align: center;
+    font-size: medium;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.abc2 {
+    height: 50px;
+    width: 300px;
+}
+
+table {
+    height: 300px;
+}
+
+.table {
+    height: 50px;
+    width: 300px;
+    background-color: orangered;
+    color: white;
+    border: 2px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+
+}
+
+.td {
+    height: 50px;
+    ;
+    margin-left: 50px;
+    border: 10px;
+    transition: 3s;
+
+}
+
+.bbbb {
+    background-color: gainsboro;
+    color: black;
+    font-size: medium;
+    height: 40px;
+    width: 300px;
+}
+
+.tuf {
+    cursor: alias;
+    background-color: gainsboro;
+    text-align: center;
+    font-size: medium;
+    height: 50px;
+    width: 300px;
+}
+
+th:hover {
+    font-size: xx-large;
+    transition: 3s;
+    background-color: aqua;
+    color: black;
+    cursor: -moz-grabbing;
+    cursor: wait;
+}
+
+.abc:hover c {
+    transition: 2s;
+    background-color: blue;
+    cursor: wait;
+}
